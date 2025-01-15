@@ -15,7 +15,7 @@ A Node.js TypeScript starter project with vitest as unit testing framework.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pietrodev07/noede-ts-starter.git
+git clone https://github.com/pietrodev07/node-ts-starter.git
 ```
 
 2. Install the dependencies:
